@@ -31,6 +31,7 @@
 - [Why Penetration Testing ?](http://www.k4linux.com/2016/06/why-penetration-testing-kali-linux-2-0.html)
 - [7 Penetration Testing Types 🌟🌟🌟](http://www.k4linux.com/2016/07/7-types-of-penetration-testing.html)
 - [Wireless Penetration Testing : Creating a Monitor mode Interface](http://www.k4linux.com/2016/08/creating-monitor-mode-interface-kali.html)
+- [Kali Linux Wireless Pentesting and Security PDF](https://rootsh3ll.com/klwps)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Security Onion is a Linux distro for intrusion detection, network security monitoring, and log management <a href="https://t.co/kePD0NrxCL">https://t.co/kePD0NrxCL</a> <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/746757211628572672">25 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
